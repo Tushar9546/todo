@@ -1,0 +1,34 @@
+{
+  "countries": [
+    {
+      "id": 5,
+      "country": "Algeria",
+      "city": "Alighar",
+      "population": 395823
+    },
+    {
+      "id": 6,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "population": 705698
+    },
+    {
+      "id": 7,
+      "country": "Poland",
+      "city": "Warszawa",
+      "population": 934852
+    },
+    {
+      "id": 8,
+      "country": "Russian Federation",
+      "city": "Moscow",
+      "population": 569874
+    },
+    {
+      "id": 10,
+      "country": "South Korea",
+      "city": "SEOUL",
+      "population": 456083
+    }
+  ]
+}
